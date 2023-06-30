@@ -1,10 +1,10 @@
 const objeto = {
-    propiedad1: 'valor1',
-    propiedad2: 'valor2',
+    prop1: 'val1',
+    prop2: 'val2',
 };
 
-const propiedad = 'propiedad1';
+const prop = 'prop1';
 
-console.log(objeto[propiedad]);
+console.log(objeto[prop]);
 
-console.log(objeto[propiedad]);
+console.log(objeto[prop]);
